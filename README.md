@@ -29,4 +29,4 @@ Each scenario combines a guided review of the admin experience with hands-on pra
 
 ## Session format
 
-The session begins with introductions and a verbal icebreaker about which Universe vendors participants have explored and whether anyone has hacked their badge. It then moves through the three stakeholder scenarios, alternating between facilitator-led walkthroughs and individual practice, before ending with the action plan.
+The session begins with introductions and a verbal icebreaker. It then moves through the three stakeholder scenarios, alternating between facilitator-led walkthroughs and individual practice, before ending with the action plan.
