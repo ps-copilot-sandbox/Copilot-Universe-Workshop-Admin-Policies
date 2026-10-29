@@ -7,7 +7,7 @@ These resources support the Copilot Universe Admin Policies workshop. Use the lo
 
 ## Hands-on exercises
 
-- [Exercise 1: Leadership](exercises/e1-Leadership.md)
-- [Exercise 2: Finance](exercises/e2-Finance.md)
+- [Exercise 1: Leadership](../exercises/e1-Leadership.md)
+- [Exercise 2: Finance](../exercises/e2-Finance.md)
 
 The workshop uses three stakeholder scenarios—leadership, finance, and security—to practice assessing Copilot adoption, understanding organizational spend and ownership, and reviewing policies, access, and administrative controls. Participants finish by identifying actions to take back to their organization.
