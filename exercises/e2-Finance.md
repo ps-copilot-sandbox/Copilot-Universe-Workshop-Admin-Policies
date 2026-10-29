@@ -59,4 +59,4 @@ Choose the resource scope that matches what you want to track:
 
 [GitHub Docs: Cost centers](https://docs.github.com/en/billing/concepts/cost-centers) · [Budgets and alerts](https://docs.github.com/en/billing/concepts/budgets-and-alerts)
 
-[← Previous exercise: Leadership](e1-Leadership.md)
+[← Previous exercise: Leadership](e1-Leadership.md) · [Next exercise: Security →](e3-Security.md)

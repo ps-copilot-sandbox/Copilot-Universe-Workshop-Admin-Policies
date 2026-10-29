@@ -8,9 +8,9 @@ Rather than focusing on theory, the session is a practical walkthrough of admini
 
 The workshop opens with a Monday-morning leadership question: **How do we constrain Copilot, and what do we have in place to manage its use today?** From there, participants work through:
 
-1. **Leadership — adoption and usage:** Assess how Copilot is being used and explain the controls available to manage that usage.
-2. **Finance — spending and ownership:** Understand where Copilot spend comes from, how it maps to the organization, and who owns it.
-3. **Security — policies and access:** Review how policies, access, and administrative controls are managed across the enterprise.
+1. **[Leadership — adoption and usage](exercises/e1-Leadership.md):** Assess how Copilot is being used and explain the controls available to manage that usage.
+2. **[Finance — spending and ownership](exercises/e2-Finance.md):** Understand where Copilot spend comes from, how it maps to the organization, and who owns it.
+3. **[Security — policies and access](exercises/e3-Security.md):** Review how policies, access, and administrative controls are managed across the enterprise.
 
 Each scenario combines a guided review of the admin experience with hands-on practice. The workshop closes by bringing the findings together into a practical action plan focused on adoption, spending, and governance.
 
