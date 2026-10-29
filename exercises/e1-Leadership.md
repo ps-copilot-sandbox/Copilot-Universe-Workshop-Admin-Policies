@@ -66,4 +66,4 @@ For example:
 
 ---
 
-[Next exercise: Finance →](e2-Finance.md)
+[Workshop overview](../README.md) · [Next exercise: Finance →](e2-Finance.md)
